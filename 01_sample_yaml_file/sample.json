@@ -1,0 +1,15 @@
+{
+  "person": {
+    "name": "Ahmed Ismail",
+    "age": 30,
+    "city": "Cairo",
+    "gender": "M",
+    "is_student": false,
+    "hoppies": ["reading", "traveling", "coding"],
+    "Address": {
+      "street": "123 Main St",
+      "zip": 12345,
+      "country": "Egypt"
+    }
+  }
+}

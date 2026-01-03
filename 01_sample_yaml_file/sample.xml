@@ -1,0 +1,15 @@
+<person>
+  <name>Ahmed Ismail</name>
+  <age>30</age>
+  <city>Cairo</city>
+  <gender>M</gender>
+  <is_student>false</is_student>
+  <hoppies>reading</hoppies>
+  <hoppies>traveling</hoppies>
+  <hoppies>coding</hoppies>
+  <Address>
+    <street>123 Main St</street>
+    <zip>12345</zip>
+    <country>Egypt</country>
+  </Address>
+</person>
