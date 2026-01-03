@@ -1,0 +1,28 @@
+person:
+  fname: "Ahmed"
+  lname: Ismail
+  age: 30
+  wight: 55.5
+  gender: "M"
+  is_student: false
+  is_African: yes
+  hoppies:
+    - reading
+    - traveling
+    - coding
+  Address:
+    street: 123 Main St
+    zip: 12345
+    country: Egypt
+
+hex: 0x12d6 #evaluates to 4822
+octal: 0o24432 #evaluates to 10522. 0 for <1.2, otherwise 0o
+positive-infinity: .inf # evaluates to infinity
+negative-infinity: -.Inf #evaluates to negative infinity
+invalidNumber: .NAN #Not a Number
+null-value: null
+null-value1: ~
+null-value2:
+plainstyle: Ahmed
+single_quote_style: "'text with : colon'"
+double_quote_style: "Line1\nLine2\nLine3"
